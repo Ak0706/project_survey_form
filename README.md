@@ -1,1 +1,1 @@
-# project_survey_form by Andrew and Atkhar
+# project_survey_form by Andrew and Akhtar
