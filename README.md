@@ -1,6 +1,6 @@
 # milestone-project/ phase-one 
 
-this is a project to learn the basics of how to use figma and flexbox
+this is a project to learn how to review code and check for error
 
 ### added html and css file to Github
 ### created a linter to check for error in the HTML and CSS codes
@@ -14,7 +14,7 @@ this is a project to learn the basics of how to use figma and flexbox
 ### HTML
 ### CSS
 ### GIT
-### FIGMA
+
 
 ## Major languages
 
@@ -25,7 +25,7 @@ this is a project to learn the basics of how to use figma and flexbox
 
 ###👤@AK0706
 
-
+### 👤@alexander16108
 
 ## Show your support
 ### Give a ⭐️ if you like this project!
@@ -34,4 +34,4 @@ this is a project to learn the basics of how to use figma and flexbox
 ### Contributions, issues, and feature requests are welcome!
 
 ### Acknowledgments
-microverse/readme-template
+@AK0706 for sharing with me his code to review 
